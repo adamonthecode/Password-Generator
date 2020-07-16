@@ -8,5 +8,5 @@ A Python password generating which uses random characters thereby returning a pa
 
 # Installation
 Password Generator requires any version of Python v3+ to run. 
-After that all the user needs to do is run it from the command line.  This can be done by downloading the files into a folder then going to the directory in your command prompt then simply running "python PasswordGenerator.py" 
-then a list of passwords should be displayed in the prompt depending on how many the user has chosen.
+After that all the user needs to do is run it from the command line.  This can be done by downloading the files into a folder and going to the directory in the command prompt then simply running "python PasswordGenerator.py" 
+A list of passwords should then be displayed in the prompt based on how many the user has chosen.
