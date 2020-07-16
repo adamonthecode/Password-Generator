@@ -1,5 +1,5 @@
 # Password-Generator
-A Python password generating which uses random characters thereby returning a password to the user.
+A simple Python Password Generator which uses random characters thereby returning a password to the user.
 
 # The benefits of using this Password Generator
 - All passwords will be unique
